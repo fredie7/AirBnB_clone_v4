@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Oluwadamilare Edun <damilareedun@gmail.com>
-Matthew Utti <matthewutti@outlook.com>
+Oluwadamilare Edun (damilareedun@gmail.com)
+Matthew Utti (matthewutti@outlook.com)
 
 
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
